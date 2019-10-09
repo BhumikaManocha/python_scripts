@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-   simple code (will be edited in furure)
+   simple code (will be edited in future)
 @author: vansh
 """
 
